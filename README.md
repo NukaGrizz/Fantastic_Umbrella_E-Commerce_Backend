@@ -17,11 +17,11 @@
   
   ## Installation
   
-  To install download or clone the files from the repository and open them in vscode. Then from the root directory run 'npm init' followed by 'npm install dotenv express mysql2 sequelize' in the command line. Then from the root directory go to the connect.js file and enter your mysql password between the '' on line where it says password:'',  
+  To install download or clone the files from the repository and open them in vscode. Then from the root directory run 'npm install dotenv express mysql2 sequelize' in the command line. Then from the root directory create a .env file with DB_NAME='ecommerce_db' DB_USER='' DB_PW='' and fill in your username and password for mysql. 
   
   ## Usage 
   
-  To use this program complete the istallation instructions. Then iniate the database using the mysql commands 'mysql -u root -p' 'mysql source ./db/schema.sql' (note: you can also use 'npm seed' to fill in pre made data but its not necessary). Finally from the root directory run 'npm start' in the command line to run the program.
+  To use this program complete the istallation instructions. Then iniate the database using 'npm seed'. Finally from the root directory run 'npm start' in the command line to run the program.
 
   ## Walkthrough Video & ScreenShot
 
