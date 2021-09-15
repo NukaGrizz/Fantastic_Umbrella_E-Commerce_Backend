@@ -17,7 +17,7 @@
   
   ## Installation
   
-  To install download or clone the files from the repository and open them in vscode. Then from the root directory run 'npm init' followed by 'npm dotnev express mysql2 sequelize' in the command line. Then from the root directory go to the connect.js file and enter your mysql password between the '' on line where it says password:'',  
+  To install download or clone the files from the repository and open them in vscode. Then from the root directory run 'npm init' followed by 'npm install dotenv express mysql2 sequelize' in the command line. Then from the root directory go to the connect.js file and enter your mysql password between the '' on line where it says password:'',  
   
   ## Usage 
   
