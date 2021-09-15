@@ -21,7 +21,7 @@
   
   ## Usage 
   
-  To use this program complete the istallation instructions. Then iniate the database using 'npm seed'. Finally from the root directory run 'npm start' in the command line to run the program.
+  To use this program complete the istallation instructions. Then iniate the database using 'npm run seed'. Finally from the root directory run 'npm start' in the command line to run the program.
 
   ## Walkthrough Video & ScreenShot
 
